@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# Azure CLI script to deploy an Azure Database for PostgreSQL flexible server and set up a read replica in another ergion with virtual endpoint
+# Azure CLI script to deploy an Azure Database for PostgreSQL server and set up a read replica in another region with virtual endpoint
 
 # Customize these values before running this script
 resourceGroup="guybo-virtual-endpoint-test"
