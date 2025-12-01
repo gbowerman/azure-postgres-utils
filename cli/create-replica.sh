@@ -2,7 +2,7 @@
 # Azure CLI script to deploy an Azure Database for PostgreSQL server and set up a read replica in another region with virtual endpoint
 
 # Customize these values before running this script
-resourceGroup="guybo-virtual-endpoint-test"
+resourceGroup="my-virtual-endpoint-test"
 location="westus3"
 replicaLocation="swedencentral"
 primaryServerName="my-primary"
